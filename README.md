@@ -54,8 +54,7 @@ Users are invited to enter their health details such as:
 * Cholesterol Level and Family History
 
 🖼️ *Example Screenshot (Prediction Page)*
-*(Insert image here: `/images/prediction_page.png`)*
-
+![Prediction Page](./PredictionPage.png)
 ---
 
 ### ✅ Result Page
@@ -66,8 +65,7 @@ After submitting the form, the model processes the data and displays the predict
 > “Based on your current lifestyle, you are at *low risk* for major lifestyle-related diseases.”
 
 🖼️ *Example Screenshot (Result Page)*
-*(Insert image here: `/images/result_page.png`)*
-
+![Result Page](./ResultPage.png)
 ---
 
 ## ⚙️ Features
@@ -178,5 +176,6 @@ For inquiries or contributions:
 ⭐ **If you liked this project, don’t forget to star the repo!**
 
 > “A healthy lifestyle begins with awareness — and awareness begins with data.”
+
 
 
