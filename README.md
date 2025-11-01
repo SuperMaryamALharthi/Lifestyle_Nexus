@@ -9,7 +9,7 @@ The goal is to empower individuals to make healthier choices by understanding ho
 ## 🌐 Live Demo
 
 🚀 [Try the App on Streamlit](#)
-*(https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Flifestylenexus-e4nd9guffhcyriy77xxrun.streamlit.app%2F)*
+*(https://lifestylenexus-e4nd9guffhcyriy77xxrun.streamlit.app/)*
 ---
 
 ## 🏥 Project Overview
@@ -169,6 +169,7 @@ Special thanks to mentors, instructors, and contributors who guided the developm
 ⭐ **If you liked this project, don’t forget to star the repo!**
 
 > “A healthy lifestyle begins with awareness — and awareness begins with data.”
+
 
 
 
