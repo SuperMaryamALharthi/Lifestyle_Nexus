@@ -147,7 +147,7 @@ After submitting the form, the model processes the data and displays the predict
   📫 [LinkedIn](http://linkedin.com/in/moath-hamdan/)
 
 * **Adel Al-Lahibi**
-  📫 [LinkedIn]()
+  📫 [Email](adelbq16@gmail.com)
 
 ---
 
@@ -165,17 +165,12 @@ Special thanks to mentors, instructors, and contributors who guided the developm
 
 ---
 
-## 📬 Contact
 
-For inquiries or contributions:
-📧 [your.email@example.com](mailto:your.email@example.com)
-💻 GitHub: [@yourusername](https://github.com/yourusername)
-
----
 
 ⭐ **If you liked this project, don’t forget to star the repo!**
 
 > “A healthy lifestyle begins with awareness — and awareness begins with data.”
+
 
 
 
