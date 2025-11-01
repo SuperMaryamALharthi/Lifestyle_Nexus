@@ -39,8 +39,7 @@ Welcome to **Lifestyle Nexus** — your journey to a healthier life starts here.
 Utilize our advanced AI to gain insights into your health and make informed choices for your well-being.
 
 🖼️ *Example Screenshot (Main Page)*
-*(Insert image here: `/images/main_page.png`)*
-
+![Main Page](./MainPage.png)
 ---
 
 ### 📋 Prediction Page
@@ -179,4 +178,5 @@ For inquiries or contributions:
 ⭐ **If you liked this project, don’t forget to star the repo!**
 
 > “A healthy lifestyle begins with awareness — and awareness begins with data.”
+
 
