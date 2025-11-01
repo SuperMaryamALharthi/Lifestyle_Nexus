@@ -138,13 +138,13 @@ After submitting the form, the model processes the data and displays the predict
 ## 👩🏻‍💻 Team Members
 
 * **Weam Abbas**
-  📫 [LinkedIn](linkedin.com/in/weam-abbas-855a63285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+  📫 [LinkedIn](https://www.linkedin.com/in/weam-abbas-855a63285/)
 
 * **Maryam Alharthi**
   📫 [LinkedIn](https://www.linkedin.com/in/maryam-alharthi-1b252b378/)
 
 * **Moath Hamdan**
-  📫 [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHqkenLwW57QwAAAZpAbVtgwfg8yxGRlE0fKapYak8XTwuFpIIlg6Rvjf_NB0IO0jDufdJMl-vg8402fNGaTNJTrvH1HNu_nsLzXjbCPC8lPGXrVhzHHm9ExXXvEJUgiQU7Hc0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmoath-hamdan%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app)
+  📫 [LinkedIn](http://linkedin.com/in/moath-hamdan/)
 
 * **Adel Al-Lahibi**
   📫 [LinkedIn]()
@@ -176,6 +176,7 @@ For inquiries or contributions:
 ⭐ **If you liked this project, don’t forget to star the repo!**
 
 > “A healthy lifestyle begins with awareness — and awareness begins with data.”
+
 
 
 
